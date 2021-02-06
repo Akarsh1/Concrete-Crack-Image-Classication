@@ -1,4 +1,4 @@
-# Concrete-Crack-Image-Classication
+# Concrete-Crack-Image-Classification
 
 This is a DPHI'S Datathon Sprint Challenge #22: Concrete Crack Image Classification (Rank #7)
 Link to the challenge: https://dphi.tech/practice/challenge/58#problem
